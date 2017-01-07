@@ -1,0 +1,18 @@
+{
+  "name": "aj-project",
+  "description": "Angular Project",
+  "main": "index.html",
+  "authors": [
+    "Naresh Parmar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Angular"
+  ],
+  "homepage": "",
+  "private": false,
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^0.3.2"
+  }
+}
